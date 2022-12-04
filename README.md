@@ -31,7 +31,7 @@ Extração:
 
 - No Airbyte:
 
-    - Conectar com as origens baseadas nos Csvs X
+    - Conectar com as origens baseadas nos Csv's X
     - Criar as entidades no snowflake através do script base da documentação    X
     - Conectar o destino no snowflake X
     - Criar as conexões do airbyte associando as origens ao destino X
